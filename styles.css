@@ -1,0 +1,287 @@
+#top {
+  background-image: linear-gradient(#FFD36E, #FFF56D);
+  color: #523906;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+  color: #523906;
+  margin: 0;
+}
+
+/* Top section */
+.jobsinneed .end {
+  padding: 20px 20px;
+}
+
+.legal {
+  padding: 15px 20px;
+}
+
+.tt {
+  width: 8%;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+
+.nav-item {
+  font-size: 1.5rem;
+  padding: 5px 10px;
+}
+
+.navbar {
+  padding: 40px 20px;
+}
+
+.row {
+  text-align: center;
+}
+
+.left {
+  padding: 10px 50px;
+  line-height: 2;
+}
+
+.top-imge {
+  width: 100%;
+}
+
+/* Features */
+#features {
+  text-align: center;
+}
+
+.one {
+  box-shadow: 0 0 20px 2px rgba(0, 0, 0, .1);
+  transition: 1s;
+}
+
+.one:hover {
+  transform: scale(1.2);
+  z-index: 1;
+}
+
+p {
+  font-size: 1.3rem;
+}
+
+h3 {
+  margin-top: 50px;
+}
+
+.row {
+  padding: 70px 5px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.assu {
+  height: 212px;
+}
+
+.cate {
+  height: 213px;
+}
+
+.prolong {
+  height: 212px;
+}
+
+.except {
+  height: 216px;
+}
+
+.assign {
+  margin: 10px 200px 10px 210px;
+  padding: 20px 90px;
+  background-color: #EFFFFD;
+}
+
+.images {
+  width: 80%;
+  border-radius: 100%;
+  padding: 10px 20px;
+}
+
+/* Photo section */
+#photo {
+  background-color: #EFFFFD;
+}
+
+.pic {
+  font-family: 'Bree Serif', serif;
+}
+
+.pic {
+  text-align: center;
+  padding: 30px 20px;
+}
+
+.dot {
+  text-align: center;
+  border-style: dotted;
+  background-color: #fff;
+  border-bottom: none;
+  width: 8%;
+  margin: 50px 0 80px 550px;
+}
+
+#certificates, #interview, #resume, #education, #project, #body, #assignments {
+  background-color: #EFFFFD;
+}
+
+/* Test section */
+#testing {
+  background-color: #D8EBE4;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.boy {
+  border-radius: 10%;
+  width: 40%;
+}
+
+.exp {
+  width: 45%;
+  margin-bottom: 25px;
+  margin-left: 130px;
+  display: inline;
+}
+
+.expo {
+  width: 58%;
+  margin-bottom: 25px;
+  margin-left: -80px;
+  display: inline;
+}
+
+.jobsinneed {
+  width: 300px;
+  display: inline;
+}
+
+.get {
+  font-size: 2rem;
+}
+
+.middle {
+  margin-top: 30px;
+  text-align: center;
+}
+
+h2 {
+  padding: 70px 50px;
+}
+
+/* Footer section */
+#footer {
+  background-color: #007580;
+  color: #fff;
+  height: 200px;
+  text-align: center;
+  height: 300px;
+}
+
+.icons {
+  padding: 50px 20px 30px 20px;
+  color: #fff;
+  width:
+}
+
+.footimg {
+  width: 15%;
+  position: relative;
+  right: 150px;
+  padding: 30px 0;
+  display: inline;
+}
+
+.foot {
+  width: 600px;
+  display: inline;
+  text-align: center;
+}
+
+.foote {
+  margin-top: 100px;
+  margin-left: 110px;
+}
+
+.tro {}
+
+hr {
+  border: #523906 10px;
+  border-bottom: none;
+  width: 60%;
+  margin-left: 250px;
+}
+
+h1 {
+  font-family: 'Bree Serif', serif;
+  padding: 15px 20px;
+  margin: 70px 10px 10px 10px;
+  line-height: 1.5;
+}
+
+@media (max-width:1023px) {
+  .left {
+    margin-bottom: 70px;
+  }
+
+  .except, .cate, .prolong {
+    height: 228px;
+  }
+
+  .assu {
+    height: 220px;
+  }
+
+  .dot {
+    margin-left: 450px;
+  }
+
+  .get {
+    font-size: 1.5rem;
+  }
+
+  .assign {
+    padding: 20px 50px;
+    margin: 10px 150px 10px 160px;
+  }
+
+  hr {
+    margin-left: 200px;
+  }
+
+  p {
+    font-size: 1.5rem;
+  }
+
+  .boy {
+    width: 60%;
+  }
+
+  .exp {
+    width: 70%;
+    margin-left: 90px;
+    height: 380px;
+  }
+
+  .expo {
+    width: 95%;
+    margin-left: -50px;
+  }
+
+  .symbol {
+    color: #fff;
+  }
+
+  .tt {
+    width: 20%;
+  }
+}
